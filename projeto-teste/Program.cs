@@ -14,7 +14,7 @@ namespace projeto_teste
             DateTime d1 =  DateTime.Now;
 
             Console.WriteLine("Olá, hoje é " + d1 +" Sexta feira");
-
+            Console.WriteLine("Bem vindo !");
 
             Console.WriteLine("Obrigado por mais um dia de vida ! obrigado, obrigado !!");
         }
